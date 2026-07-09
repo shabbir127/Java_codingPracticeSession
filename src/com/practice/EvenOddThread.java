@@ -1,5 +1,5 @@
 package com.practice;
-
+//thread coding part
 public class EvenOddThread extends Thread{
 	int number=10;
 	int start=1;
