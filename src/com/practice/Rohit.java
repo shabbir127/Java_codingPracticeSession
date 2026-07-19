@@ -11,4 +11,5 @@ public class Rohit {
 
 		System.out.println(sumOfSeries(5));
 	}
+	
 }
